@@ -1,19 +1,18 @@
-
-//String is immutable
+/*String is immutable
 
 import java.util.Locale;
 
 public class StringExample {
  public static void main(String[] args) {
 //
-//        String name = "Arun";
+  String name = "Arun";
 //        name="Karthi";
 //        System.out.println(name);
 
 
 //String methods
 
-  String name = "Arunkumar";//string literal
+ // String name = "Arunkumar";//string literal
 
   //returns string length
   System.out.println(name.length());
@@ -54,10 +53,15 @@ public class StringExample {
   //it will concat the strings
   System.out.println(name.concat("Kanniappan"));
 
+  System.out.println(name);
+
   //finds the character specified from the index position
   System.out.println(name.indexOf("k",2));
 
-  //
  }
 
-}
+}*/
+
+
+
+
