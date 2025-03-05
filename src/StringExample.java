@@ -62,16 +62,6 @@ public class StringExample {
 
 }*/
 
-//String buffer
-
-//public class StringExample {
-//    public static void main(String[] args) {
-//
-//            StringBuffer name = new StringBuffer("Arun");
-//            System.out.println(name.append("kumar"));
-//        System.out.println("Original name : " + name);
-//    }
-//}
 
 // normal string
 //public class StringExample {
@@ -83,3 +73,45 @@ public class StringExample {
 //    }
 //}
 
+
+//String buffer
+
+//public class StringExample {
+//    public static void main(String[] args) {
+//
+//            StringBuffer name = new StringBuffer("Arun");
+//            System.out.println(name.append("kumar"));
+//        System.out.println("Original name : " + name);
+//    }
+//}
+
+/// string buffer methods
+//reverse ,replace,delete,insert,capacity
+
+public class StringExample {
+    public static void main(String[] args) {
+
+//        StringBuffer name = new StringBuffer("ArunKumar");
+//
+//        System.out.println(name.reverse());
+
+//        StringBuffer name = new StringBuffer("ArunKumar");
+//
+//        System.out.println(name.replace(0,3,"Varun"));
+
+//        StringBuffer name = new StringBuffer("ArunKumar");
+//        System.out.println(name.delete(0,4));
+
+//        StringBuffer name = new StringBuffer("arunkumar");
+//        System.out.println(name.insert(9,"kanniappan"));
+
+//        StringBuffer name = new StringBuffer("Arunkumar");
+//        System.out.println(name.capacity());
+
+//        StringBuilder name = new StringBuilder("Arunkumar");
+//        System.out.println(name.append("kanniappan"));
+
+
+
+    }
+}
