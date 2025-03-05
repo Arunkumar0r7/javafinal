@@ -12,7 +12,7 @@
 //    }
 //}
 
-//void method with parameters
+////void method with parameters
 
 //public class methodexample {
 //
@@ -27,7 +27,7 @@
 //    }
 //}
 
-// non void method with non parameters
+//// non void method with non parameters
 
 //public class methodexample {
 //
@@ -44,7 +44,7 @@
 //    }
 //}
 
-// non void method with paramters
+//// non void method with paramters
 
 //public class methodexample {
 //

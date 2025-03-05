@@ -33,24 +33,24 @@
 //    }
 //}
 
-public class Arrayexample {
-    public static void main(String[] args) {
-        // Declare and initialize an array of integers
-        int[] numbers = {10, 20, 5, 40, 50, 2};
-
-        // Calculate the sum of all elements
-        int sum = 0;
-        for (int number : numbers) {
-            sum += number;
-        }
-
-        // Print the results
-//        System.out.println("Array elements:");
+//public class Arrayexample {
+//    public static void main(String[] args) {
+//        // Declare and initialize an array of integers
+//        int[] numbers = {10, 20, 5, 40, 50, 2};
+//
+//        // Calculate the sum of all elements
+//        int sum = 0;
 //        for (int number : numbers) {
-//            System.out.println(number);
+//            sum += number;
 //        }
-        System.out.println("Sum of all elements: " + sum);
-    }
-}
+//
+//        // Print the results
+////        System.out.println("Array elements:");
+////        for (int number : numbers) {
+////            System.out.println(number);
+////        }
+//        System.out.println("Sum of all elements: " + sum);
+//    }
+//}
 
 

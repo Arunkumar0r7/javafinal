@@ -62,6 +62,24 @@ public class StringExample {
 
 }*/
 
+//String buffer
 
+//public class StringExample {
+//    public static void main(String[] args) {
+//
+//            StringBuffer name = new StringBuffer("Arun");
+//            System.out.println(name.append("kumar"));
+//        System.out.println("Original name : " + name);
+//    }
+//}
 
+// normal string
+//public class StringExample {
+//    public static void main(String[] args) {
+//
+//        String name = "Arun";
+//        System.out.println(name.concat("kumar"));
+//        System.out.println("Original name : " + name);
+//    }
+//}
 

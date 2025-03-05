@@ -87,3 +87,23 @@
 //}
 
 
+//class Car{
+//    String brand;
+//    int speed=20;
+//
+//    void accelerate() {
+//        speed += 10;
+//        System.out.println(speed);
+//    }
+//
+//}
+//
+//class ObjectExample{
+//    public static void main(String[] args) {
+//        Car mycar = new Car();
+//        mycar.brand="BMW";
+//        mycar.accelerate();
+//    }
+//}
+
+
